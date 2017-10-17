@@ -13,3 +13,5 @@ Only fullstack challenges. Only open source.
 
 ### PT :brazil:
 - [Cubo](https://github.com/cubonetwork/fullstack-challenge)
+- [Entria](https://github.com/entria/jobs/blob/master/fullstack/challenge.md)
+- [RoutEasy](https://github.com/RoutEasy/challenge-fullstack)
