@@ -14,6 +14,7 @@ Only fullstack challenges. Only open source.
 ### PT :brazil:
 - [Cubo](https://github.com/cubonetwork/fullstack-challenge)
 - [Entria](https://github.com/entria/jobs/blob/master/fullstack/challenge.md)
+- [Estudar com Você ](https://github.com/estudarcomvoce/fullstack-challenge)
 - [Hospede](https://github.com/hospede/fullstack-challenge)
 - [RoutEasy](https://github.com/RoutEasy/challenge-fullstack)
 - [Softplan](https://github.com/g-cpa-squad-produto/softplan-desafio-fullstack)
