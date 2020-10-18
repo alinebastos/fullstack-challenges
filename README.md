@@ -10,6 +10,7 @@ Only fullstack challenges. Only open source.
 - [RivetAI](https://github.com/endcue/fullstack-challenge)
 - [Techstars](https://github.com/techstars/full-stack-challenge)
 - [Unbabel](https://github.com/Unbabel/fullstack-coding-challenge)
+- [AstroCoders](https://github.com/Astrocoders/fullstack-challenge)
 
 ### PT :brazil:
 - [Cubo](https://github.com/cubonetwork/fullstack-challenge)
