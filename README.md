@@ -17,5 +17,6 @@ Only fullstack challenges. Only open source.
 - [Entria](https://github.com/entria/jobs/blob/master/fullstack/challenge.md)
 - [Estudar com Você ](https://github.com/estudarcomvoce/fullstack-challenge)
 - [Hospede](https://github.com/hospede/fullstack-challenge)
+- [iFood](https://github.com/ifood/ifood-fullstack-test)
 - [RoutEasy](https://github.com/RoutEasy/challenge-fullstack)
 - [Softplan](https://github.com/g-cpa-squad-produto/softplan-desafio-fullstack)
