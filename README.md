@@ -6,12 +6,13 @@ Only fullstack challenges. Only open source.
 
 ### EN :us:
 
+- [AstroCoders](https://github.com/Astrocoders/fullstack-challenge)
 - [Finimize](https://github.com/finimize/fullstack-dev-challenge)
+- [Infoxchange](https://github.com/infoxchange/full-stack-developer-challenge)
 - [Itexico](https://github.com/itexico/interview-codingchallenge-fsjs)
 - [RivetAI](https://github.com/endcue/fullstack-challenge)
 - [Techstars](https://github.com/techstars/full-stack-challenge)
 - [Unbabel](https://github.com/Unbabel/fullstack-coding-challenge)
-- [AstroCoders](https://github.com/Astrocoders/fullstack-challenge)
 
 ### PT :brazil:
 
