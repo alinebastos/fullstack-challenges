@@ -7,6 +7,7 @@ Only fullstack challenges. Only open source.
 ### EN :us:
 
 - [AstroCoders](https://github.com/Astrocoders/fullstack-challenge)
+- [devChallenges](https://devchallenges.io/paths/full-stack-developer)
 - [Finimize](https://github.com/finimize/fullstack-dev-challenge)
 - [Infoxchange](https://github.com/infoxchange/full-stack-developer-challenge)
 - [Itexico](https://github.com/itexico/interview-codingchallenge-fsjs)
